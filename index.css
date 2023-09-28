@@ -317,3 +317,58 @@ position: absolute;
     position: absolute;
     rotate: 180deg;
 }
+.boxes1
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+.boxes2
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+
+.boxes3
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+
+.boxes4
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+
+.boxes5
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+
+.boxes6
+{
+    width: 170px;
+    height: 80px;
+    border-radius: 10px;
+    background: #D9D9D9;
+}
+
+.skill-box
+{
+    display: flex;
+    gap: 20px;
+    top: 4100px;
+    left: 200px;
+    position: absolute;
+}
