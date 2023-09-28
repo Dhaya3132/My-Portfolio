@@ -295,3 +295,25 @@ position: absolute;
     font-size: 40px;
     font-weight: bold;
 }
+
+.line1
+{
+    top: 2000px;
+    left: 1790px;
+    position: absolute;
+}
+
+.group img
+{
+    top: 1350px;
+    left: 10px;
+    position: absolute;
+}
+
+.group2 img{
+    
+    top: 800px;
+    left: 1700px;
+    position: absolute;
+    rotate: 180deg;
+}
