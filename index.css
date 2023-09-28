@@ -184,7 +184,26 @@ left: 100px;
 
 .box4
 {
-    width: 761px;
-height: 442px;
-flex-shrink: 0;
+    width: 800px;
+    height: 442px;
+    border-radius: 0px 15px 15px 0px;
+    background: #EDEDE9;
+    backdrop-filter: blur(2px);
+    top: 2700px;
+    position: absolute;
+}
+
+.box4-content
+{
+    color: rgba(17, 17, 17, 0.50);
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+width: 607px;
+height: 366px;
+top: 80px;
+left: 80px;
+position: absolute;
+
 }
