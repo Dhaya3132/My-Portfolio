@@ -251,3 +251,47 @@ height: 522px;
     top: 60px;
     position: absolute;
 }
+
+.dogfood
+{
+    color: #6F2DBD;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight:bold;
+top: 2200px;
+left:150px;
+position:absolute;
+}
+
+.tripmaker
+{
+    color: #6F2DBD;
+font-family: Poppins;
+font-size: 40px;
+font-weight: bold;
+top: 3500px;
+left: 120px;
+position: absolute;
+}
+.rental
+{
+    color: #6F2DBD;
+font-family: Poppins;
+font-size: 40px;
+font-weight: bold;
+top: 2800px;
+left: 1100px;
+position: absolute;
+}
+
+.skills
+{
+    top: 4000px;
+    left: 45%;
+    position: absolute;
+    color: #111;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: bold;
+}
