@@ -416,17 +416,15 @@ padding: 30px;
 color:#6F2DBD;
 text-align: right;
 font-family: Poppins;
-font-size: 30px;
+font-size: 25px;
 font-style: normal;
-font-weight: 600;
+font-weight: light;
 line-height: normal;
 width: 1038px;
 margin-left: auto;
 }
 
-.rectangle3
-{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+
+@media only screen and (min-width:1140px) {
+    
 }
